@@ -1,0 +1,109 @@
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/564x/fa/8b/b7/fa8bb713e1f1bdf09d461eaad09d2bae.jpg);
+	font-size: 18px;
+	font-family: cursive;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2%;
+    margin-right: 0%;
+    margin-bottom: 70%;
+    margin-left: 0%;
+}
+ h1 {
+	font-size: 70px; 
+	font-family:helvetica;
+	margin: 5px 15px 5px  15px;
+	text-align: center;
+	color: #5F04B4;
+   }
+ h2{
+ 	color: #642EFE;
+ 	text-align: center;
+ 	font-family:helvetica;
+	margin: 5px 15px 5px  15px;
+ }
+
+header{
+	text-align: center;
+	font-family: museo-sans;
+	color: #81BEF7;
+	font-size: 48px; 
+	padding: 100px; 
+	border-bottom: 5px;
+	
+}
+div{
+	font-size:18px;
+	color: ##086A87;
+	margin:15%;
+	padding: 20px;
+	border-radius: 10px;
+	margin:5%;
+	padding: 20px;
+	}
+
+.summary p{
+	text-align: center;
+	position: center;
+	font-family:cursive;
+	font-size: 24px;
+	border-radius: 5px;
+}
+.summary{
+	float: center;
+	width: 70%;
+	background: #CED8F6;
+	position: center;
+	margin-left: 15%;
+
+}
+.preamble{
+	font-family: cursive;
+	font-size: 16px;
+	background: #CED8F6;
+}
+.explanation {
+	float: left;
+	width: 40%;	
+	background: #CED8F6;
+	color: 
+
+}
+.participation .benefits{
+	float: left;
+	width: 40%;
+	background: #CED8F6;
+}
+.requirements .design-selection{
+	float: left;
+	width: 40%;	
+	background: #CED8F6;
+}
+
+.design-selection{
+	float: left;
+	width: 30%;
+	text-align: center;
+	margin-left: 5%;
+	padding: 20px;
+	background: #CED8F6;
+}
+.design-archives{
+	float: left;
+	width: 30%;
+	text-align: center;
+	margin-left: 5%;
+	padding: 20px;
+	background: #CED8F6;
+}
+.zen-resources{
+	float: left;
+	width: 30%;
+	text-align: center;
+	margin-left: 5%;
+	padding: 20px;
+	background: #CED8F6;
+}
+p{
+	color: #A9A9F5;
+}
